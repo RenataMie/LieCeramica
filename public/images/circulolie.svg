@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="circulolie.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect2899"
+       is_visible="true"
+       lpeversion="1"
+       pattern="M 0,5 C 0,2.24 2.24,0 5,0 7.76,0 10,2.24 10,5 10,7.76 7.76,10 5,10 2.24,10 0,7.76 0,5 Z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2897"
+       is_visible="true"
+       lpeversion="1" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2891">
+      <stop
+         style="stop-color:#a05a2c;stop-opacity:1;"
+         offset="0"
+         id="stop2887" />
+      <stop
+         style="stop-color:#a05a2c;stop-opacity:0;"
+         offset="1"
+         id="stop2889" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2835"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#a05a2c;stop-opacity:1;"
+         offset="0"
+         id="stop2833" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect64"
+       is_visible="true"
+       lpeversion="1"
+       pattern="M 0,5 C 0,2.24 2.24,0 5,0 7.76,0 10,2.24 10,5 10,7.76 7.76,10 5,10 2.24,10 0,7.76 0,5 Z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect62"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect58"
+       is_visible="true"
+       lpeversion="1"
+       pattern="M 0,5 C 0,2.24 2.24,0 5,0 7.76,0 10,2.24 10,5 10,7.76 7.76,10 5,10 2.24,10 0,7.76 0,5 Z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect52"
+       is_visible="true"
+       lpeversion="1"
+       pattern="M 0,5 C 0,2.24 2.24,0 5,0 7.76,0 10,2.24 10,5 10,7.76 7.76,10 5,10 2.24,10 0,7.76 0,5 Z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect46"
+       is_visible="true"
+       lpeversion="1"
+       pattern="M 0,5 C 0,2.24 2.24,0 5,0 7.76,0 10,2.24 10,5 10,7.76 7.76,10 5,10 2.24,10 0,7.76 0,5 Z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect40"
+       is_visible="true"
+       lpeversion="1"
+       pattern="M 0,5 C 0,2.24 2.24,0 5,0 7.76,0 10,2.24 10,5 10,7.76 7.76,10 5,10 2.24,10 0,7.76 0,5 Z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2891"
+       id="linearGradient2893"
+       x1="17.858577"
+       y1="158.06685"
+       x2="201.6799"
+       y2="158.06685"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.56288201"
+     inkscape:cx="390.31232"
+     inkscape:cy="741.61265"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:object-paths="true"
+     inkscape:window-width="1252"
+     inkscape:window-height="802"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;mix-blend-mode:normal;fill:url(#linearGradient2893);fill-opacity:1;stroke:none;stroke-width:0.14948958;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 69.097519,236.90578 c 0.25612,-0.49234 5.015476,1.77912 14.180045,4.17054 8.869069,2.31432 23.224466,4.7831 39.882096,1.63654 15.018,-2.82961 32.57556,-10.55886 46.54306,-25.47587 11.23172,-11.98016 19.94853,-28.69312 22.16437,-47.65152 0,0 0,-2e-5 0,-2e-5 1.96785,-16.73105 -1.26457,-35.16485 -10.47331,-51.20259 -8.49642,-14.82406 -22.15309,-27.531586 -38.80342,-34.797089 -2.068,-0.904368 -4.1815,-1.72378 -6.33326,-2.456033 -14.88407,-5.065099 -30.94204,-5.736247 -45.547792,-2.366848 -17.92425,4.120004 -33.656182,14.218027 -44.636997,27.08812 -12.274679,14.36487 -18.689879,32.04167 -19.844277,48.56475 -1.429316,20.51068 4.985348,38.91057 14.237469,51.94923 14.620843,20.64071 34.842708,27.71572 45.313985,30.07956 7.353463,1.66413 11.519553,1.84818 11.521104,2.34143 0.0016,0.49325 -4.17872,1.28662 -11.981464,0.46123 C 74.258851,238.07049 52.061092,232.07634 35.238421,210.23388 24.617653,196.42325 16.891297,176.59644 17.956774,153.9378 18.812219,135.67798 25.474999,116.08783 38.94689,99.855242 51.026662,85.319814 68.354785,73.930766 88.467296,69.165303 c 16.397664,-3.873067 34.265194,-3.200124 51.011034,2.499695 2.41559,0.8222 4.79071,1.743561 7.11804,2.76161 18.67506,8.184971 33.85797,22.422891 43.28052,39.136302 10.18199,18.08998 13.49523,38.54947 11.01884,57.15794 0,0 -10e-6,2e-5 -10e-6,2e-5 -2.81757,21.06712 -12.80472,39.17702 -25.48811,52.01368 -15.77492,15.94728 -35.05416,23.55012 -51.29062,25.83191 -18.01842,2.52426 -32.9067,-1.1269 -41.802147,-4.46394 -9.192887,-3.44863 -13.473444,-6.7044 -13.217324,-7.19674 z"
+       id="path60"
+       inkscape:path-effect="#path-effect62;#path-effect64"
+       inkscape:original-d="m 69.097519,236.90578 c -15.668109,-27.57607 -31.33648,-55.15241 -47.005115,-82.729 -15.6686364,-27.5766 42.304866,55.77966 63.456904,83.6691 21.152042,27.88945 7.83445,0.627 11.751278,0.9401" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:0.26458300000000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -30.553324,139.60519 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+       id="path2895"
+       inkscape:path-effect="#path-effect2897;#path-effect2899"
+       inkscape:original-d="m -30.553324,139.60519 c 2.65e-4,2.6e-4 2.65e-4,2.6e-4 0,0 z" />
+  </g>
+</svg>
