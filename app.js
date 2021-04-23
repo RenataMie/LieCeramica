@@ -1,7 +1,10 @@
+require("dotenv").config();
+
 const express = require("express");
 const bodyParser = require("body-parser");
 const ejs = require("ejs");
 const app = express();
+const axios = require ("axios");
 
 
 
@@ -14,25 +17,41 @@ app.get("/", function(req, res){
 	res.render("home");
 });
 
-app.get("/sobre", function(req, res){
-	res.render("sobre");
+
+
+app.get("/pecas", function(req, res){
+
+	axios.get("https://graph.instagram.com/me/media?&fields=id,children{media_url},username,timestamp,caption,media_url,thumbnail_url,media_type,permalink&limit=200&access_token=" + process.env.TOKEN)
+	.then((response) => {
+		let postsArray = [];
+
+		response.data.data.map((posts) => {
+			postsArray.push(posts);
+		});
+
+		res.render("pecas", {posts:postsArray});
+	})
+
+	.catch((err) => {
+		console.log(err);
+	});
+
+
 });
-
-app.get("/login", function(req, res){
-	res.render("login");
-});
-
-app.get("/form", function(req, res){
-	res.render("form");
-});
-
-
-
-
 	
 
 
+let port = process.env.PORT;
+if (port == null || port == "") {
+  port = 3000;
+}
 
-app.listen(3000, function() {
-  console.log("Server started on port 3000");
+
+app.listen(port, function(){
+	console.log("Sever started");
+
 });
+
+
+
+
