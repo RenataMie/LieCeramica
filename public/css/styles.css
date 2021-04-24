@@ -374,12 +374,10 @@ a:hover{
 
 }
 
-.mynav {
-	background-color: white;
-	position: fixed;
-	top: 160px;
-	padding: 25px 0 0 0;
-	
+.cabeca-changed nav{
+	top:95px;
+	border-bottom: solid 1px #C68C31;
+	transition-delay: 0.1s;
 }
 
 
