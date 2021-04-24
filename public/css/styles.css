@@ -318,17 +318,25 @@ a:hover{
 	}
 
 .topdiv {
-	width: 100vw;
+	width: 90vw;
+
 }
 .imglogo{
 	
-	left: 160px;
+	left: 120px;
+	max-width:150px;
+ 	max-height:150px;
+  
 	
+}
+
+.cabeca {
+	margin-top: -15px;
 }
 
 .cabeca-changed img{
 	
-  	left: 200px;
+  	left: 140px;
   	
 }
 
@@ -341,8 +349,8 @@ a:hover{
 
 .carImg {
 	
-    max-width: 470px;
-    max-height: 500px;
+    max-width: 330px;
+    max-height: 400px;
    
 }
 
@@ -355,10 +363,15 @@ a:hover{
 	border-radius: 100%;
 	height: 35px;
 	width: 35px;
-	margin: auto 35px;
+	margin: auto 10px;
 /*	position: relative;
 	top: 260px;
 	z-index: 0;*/
+}
+
+.navbar ul{
+	margin-left: 50px;
+
 }
 
 
