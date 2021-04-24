@@ -38,6 +38,10 @@ app.get("/pecas", function(req, res){
 
 
 });
+
+app.get("/encomendas", function(req, res){
+	res.render("encomendas");
+});
 	
 
 
