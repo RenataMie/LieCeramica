@@ -421,6 +421,7 @@ a:hover{
 .cabeca-changed img{
 	
   	left: 140px;
+  	transition:  ease-in 0.2s;
   	
 }
 
@@ -462,7 +463,7 @@ a:hover{
 }
 
 .cabeca-changed nav{
-	top:95px;
+	top:90px;
 	
 }
 
