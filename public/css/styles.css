@@ -10,7 +10,7 @@
 	height: 25vh;
 	position: fixed;
 	z-index: 1;
-	top: 1px;
+	top: 0.1px;
 	
 }
 
@@ -78,7 +78,7 @@
 
 .grid-meddiv img{
 	border-radius: 5px;
-	width: 150px;
+	width: 200px;
 }
 
 .grid-meddiv p{
@@ -89,13 +89,23 @@
 
 .botdiv{text-align: center;
 		width: 50%;
-		margin: 100px auto 100px auto;
+		margin: 100px auto;
 		background: white;
 	}
 
-.finaldiv {background-color:white;
+.finaldiv {background-color:  #836E40;
 			text-align: center;
-			padding: 20px 0 20px;}
+			/*margin: 0;
+			padding-bottom: 8px;*/
+			}
+
+.finaldiv p{
+		color: white;
+		font-size: 15px;
+		margin: 0;
+		/*padding-top: 30px;*/
+		}
+
 
 
 
@@ -197,7 +207,7 @@ hr {border: dotted #C68C31 6px;
 h1 {color: #836E40;
 	margin-top: 0;
 	font-family: 'Shadows Into Light', cursive;
-	font-size: 50px;}
+	font-size: 40px;}
 
 h3 {color: white;
 	font-family: 'Shadows Into Light', cursive;
@@ -210,16 +220,8 @@ table{font-family: 'Open Sans', sans-serif;}
 form {font-family: 'Open Sans', sans-serif;}
 
 .pcontato{display: inline-block;
-		line-height: 2;}
-
-#h1titulo {color: #836E40;
-		margin-top: 0;
-		margin-left: 85px;
-		font-family: 'Shadows Into Light', cursive;
-		font-size: 7rem;
-		letter-spacing: 1rem;
-		font-weight: normal;
-		padding-top: 100px;}
+		line-height: 2;
+		margin-right: 10px;}
 
 
 .p1 {position: relative;
@@ -292,6 +294,11 @@ border: none;
 	width: 90%;
 	padding:20px;
 	margin: 0 auto;
+}
+
+.fas {
+	color: #836E40;
+	margin-right: 10px;
 }
 
 
@@ -368,6 +375,20 @@ border: none;
 a:hover{ 
 		padding: 4px;
 	}
+
+.meddiv{
+		margin: -50px auto 50px auto ;
+		height: 48vh;
+	}
+
+.grid-meddiv img{
+	margin-left: -55px;
+}
+
+.grid-meddiv p{
+	margin-left: -45px;
+	width: 57%;
+}
 
 
 
@@ -456,8 +477,8 @@ a:hover{
 }
 
 .grid-meddiv img{
-	width: 100px;
-	margin: 0 auto;
+	width: 110px;
+	margin: -20px auto 0 auto;
 }
 
 .grid-meddiv p{
@@ -478,6 +499,22 @@ a:hover{
 	margin-top: 20px;
 
 }
+
+.botdiv{text-align: center;
+		width: 100%;
+		margin: -50px auto 60px auto;
+		background: white;
+		font-size: 17px;
+	}
+
+.finaldiv p{
+		color: white;
+		font-size: 12px;
+		margin: 0;
+		padding-bottom: 10px;
+		}
+
+
 
 
 }
