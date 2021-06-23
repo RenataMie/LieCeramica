@@ -23,7 +23,7 @@
  	max-height:100px;
   	width: auto;
   	height: auto;
-  	left: 660px;
+  	left: 665px;
   	transition:  ease-in 0.3s;
 }
 
@@ -69,7 +69,7 @@
 
 .grid-meddiv{
 	display: inline-grid;
-	grid-template-columns: 200px 900px;
+	grid-template-columns: 300px 900px;
 	width: 80vw;
 	padding-top: 10px;
 	margin-top: 20px;
@@ -78,7 +78,8 @@
 
 .grid-meddiv img{
 	border-radius: 5px;
-	width: 200px;
+	width: 300px;
+	margin-top: -105px;
 }
 
 .grid-meddiv p{
@@ -202,10 +203,10 @@ body {background-color: white;
 hr {border: dotted #C68C31 6px;
 	border-bottom: none;
 	width: 4%;
-	margin: 100px auto;}
+	margin: 80px auto;}
 
 h1 {color: #836E40;
-	margin-top: 0;
+	margin: 20px auto;
 	font-family: 'Shadows Into Light', cursive;
 	font-size: 40px;}
 
@@ -214,14 +215,16 @@ h3 {color: white;
 	font-size: 2rem;
 	letter-spacing: 0.15rem;}
 
-p{font-family: 'Open Sans', sans-serif;}
+p{font-family: 'Open Sans', sans-serif;
+	font-size: 17px;}
+li{font-family: 'Open Sans', sans-serif;}
 
 table{font-family: 'Open Sans', sans-serif;}
 form {font-family: 'Open Sans', sans-serif;}
 
 .pcontato{display: inline-block;
-		line-height: 2;
-		margin-right: 10px;}
+		/*line-height: 2;*/
+		margin: 10px 20px 0 10px;}
 
 
 .p1 {position: relative;
@@ -250,8 +253,8 @@ border: none;
 }
 
 .flex > div {
-	flex: 1 1 270px;
-	margin: 10px;
+	flex: 1 1 200px;
+	margin: 3px;
 }
 
 .flex img {
@@ -265,10 +268,22 @@ border: none;
 
 }
 
-.encomendas {
-	margin: 270px auto 10px auto;
+.encom{
 	text-align: center;
 	width: 90%;
+	margin: 0 auto;
+}
+
+
+.encom a {
+	color: #C68C31;
+}
+
+
+.encomendas {
+	margin: 270px auto 10px auto;
+	/*text-align: center;*/
+	/*width: 90%;*/
 	background:  #836E40;
 	color: white;
 	border-radius: 5px;
@@ -289,16 +304,22 @@ border: none;
 }
 
 .encomendas2 {
-	background-color: grey;
-	text-align: center;
-	width: 90%;
+	border: solid 1px #836E40;
+	/*text-align: center;*/
+	/*width: 90%;*/
 	padding:20px;
 	margin: 0 auto;
+}
+
+.encomendas2 h3{
+	color: #836E40;
+	
 }
 
 .fas {
 	color: #836E40;
 	margin-right: 10px;
+
 }
 
 
@@ -377,18 +398,29 @@ a:hover{
 	}
 
 .meddiv{
+		width: 100%;
 		margin: -50px auto 50px auto ;
 		height: 48vh;
 	}
 
 .grid-meddiv img{
 	margin-left: -55px;
+	margin-top:20px;
+	width: 250px;
 }
 
 .grid-meddiv p{
 	margin-left: -45px;
-	width: 57%;
+	margin-top: 10px;
+	width: 45%;
+	font-size: 15px;
 }
+
+.flex > div {
+	flex: 1 1 120px;
+	margin: 3px;
+}
+
 
 
 
@@ -402,7 +434,7 @@ a:hover{
 	}
 
 .topdiv {
-	width: 90vw;
+	width: 95vw;
 
 }
 .imglogo{
@@ -420,7 +452,7 @@ a:hover{
 
 .cabeca-changed img{
 	
-  	left: 140px;
+  	left: 145px;
   	transition:  ease-in 0.2s;
   	
 }
@@ -428,13 +460,14 @@ a:hover{
 .grid-container {
 	grid-template-columns: 100%;
 	margin: 0;
+
 	
 	
 }
 
 .carImg {
 	
-    max-width: 330px;
+    max-width: 350px;
     max-height: 400px;
    
 }
@@ -503,7 +536,7 @@ a:hover{
 
 .botdiv{text-align: center;
 		width: 100%;
-		margin: -50px auto 60px auto;
+		margin: -50px auto 100px auto;
 		background: white;
 		font-size: 17px;
 	}
@@ -515,6 +548,17 @@ a:hover{
 		padding-bottom: 10px;
 		}
 
+h1 {margin-top: 100px;
+	font-size: 30px;}
+
+p{
+	font-size: 15px;}
+
+
+.flex > div {
+	flex: 1 1 90px;
+	margin: 5px 2px;
+}
 
 
 
